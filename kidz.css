@@ -125,13 +125,6 @@
  .krish{
     height: 100px;
  }
-     .whole{
-        width: 100%;
-        height: fit-content;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-evenly;
-     }
      .newgame{
     
        flex-direction: column;
