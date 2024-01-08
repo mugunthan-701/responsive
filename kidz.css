@@ -106,6 +106,9 @@
     height: 150px;
     font-size: 10px;
      }
+     .footer{
+        height: 150px;
+     }
      .books{
         padding: 20px;
         display: flex;
@@ -119,7 +122,9 @@
        align-content: center;
     
      }
- 
+ .krish{
+    height: 100px;
+ }
      .whole{
         width: 100%;
         height: fit-content;
@@ -145,8 +150,6 @@
         align-items: center;
     
         font-size: 15px;
-        /* background-position: right; */
-    
      } 
      .items{
         padding: 20px;
@@ -166,5 +169,40 @@
      }
      .iitem{
         height: 400px;
+     }
+     #t1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+     }
+     .disc{
+        width: 550px;
+     }
+     h3{
+        font-size: 180%;
+     }
+     .whole{
+        display:flex ;
+        height:850vh;
+        justify-content:space-between;
+     }
+     .navv{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+     }
+     .navimg{
+        margin-left: 2px;
+     }
+     #imm{
+        margin-right: 7px;
+     }
+     .books{
+        display: flex;
+        justify-content: space-between;
+     }
+     .category{
+        padding: 30px;
      }
 }
