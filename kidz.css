@@ -89,7 +89,7 @@
     align-items: center;
 }
 .whole{
-    height: 2000px;
+    height: 1300px;
     display: grid;
     flex-direction: column;
     align-content:space-between ;
